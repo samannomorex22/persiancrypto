@@ -1,0 +1,2 @@
+trojan://jjshdisidusjhdjeis-32423434@cdn9.yhealths.com:8443?security=tls&type=ws&sni=discordapp.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+9
+trojan://jjshdisidusjhdjeis-32423434@cdn3.yhealths.com:8443?security=tls&type=ws&sni=discordapp.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+3
